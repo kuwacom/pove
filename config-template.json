@@ -1,0 +1,35 @@
+{
+	"token": "",
+	"prefix": "!!t",
+    "poll": {
+        "maxPoll": 1000,
+        "titleMax": 50,
+        "titleMin": 0,
+        "descriptionMax": 200,
+        "descriptionMin": 0,
+        "barSize": 20
+    },
+    "commands": {
+        "help":["help"]
+    },
+    "emoji": {
+        "help": "❔",
+        "warning": "⚠️",
+        "error": "❌",
+        "check": "✔",
+        "progressBar": {
+            "left": "|",
+            "right": " ",
+            "dot": "|"
+        }
+    },
+    "embed": {
+        "footerText": "v2.2 Create BY kuwa.app",
+        "colors": {
+            "info": "#87ceeb",
+            "success": "#00fa9a",
+            "warning": "#ffa500",
+            "error": "#ff0000"
+        }
+    }
+}

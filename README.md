@@ -1,2 +1,2 @@
-# pove
-多機能管理BOT
+# MultiFuncBOT
+多機能BOTです
